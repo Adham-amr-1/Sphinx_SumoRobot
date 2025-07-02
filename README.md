@@ -103,12 +103,6 @@ cd Sphinx_SumoRobot
 
 ---
 
-## 📹 Demonstration
-
-> 🎥 *[Insert link to video demo — e.g., YouTube or GIF showing the robot in battle]*
-
----
-
 ## 🧩 Future Improvements
 
 - Add LCD display or LEDs for real-time debugging.
